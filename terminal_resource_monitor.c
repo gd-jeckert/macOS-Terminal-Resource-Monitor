@@ -362,7 +362,7 @@ int main() {
         get_visual_cpu_usage();
         printf("---------------------------------------------\n");
         printf("MEMORY---------------------------------------\n");
-        //get_memory_usage();
+        get_memory_usage();
         get_visual_memory_usage();
         list_top_memory_tasks();
         printf("---------------------------------------------\n");
