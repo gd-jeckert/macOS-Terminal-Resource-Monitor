@@ -6,6 +6,7 @@ Specters Terminal System Resource Monitor Displays...
 - Displays CPU usage
 - MEMORY usage
 - TOP 5 Memory Intensive running Tasks
+- DISK Space usage
 - System Uptime
 - List of ALL Running Tasks by ID 
 
